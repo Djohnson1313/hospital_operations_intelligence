@@ -14,12 +14,13 @@ Modern healthcare organizations generate large volumes of operational and financ
 
 The project follows an end to end analytics workflow beginning with database design and data preparation before progressing into business focused analysis. A relational database was built in SQLite using primary and foreign key relationships to model patients, doctors, appointments, treatments, and billing information. SQL was then used to answer business questions across multiple areas of hospital operations, while Python (Pandas and Matplotlib) was used to create visualizations and communicate findings through a structured analytical report.
 
-The analysis is organized into four key business areas :
+The analysis is organized into five key business areas :
 
 - Executive Performance evaluates overall organizational performance through key performance indicators such as total revenue, patient volume, appointment volume, average revenue per patient, and monthly revenue trends.
 - Branch Performance compares hospital locations by examining revenue, patient volume, appointment activity, doctor workload, and branch level performance metrics.
 - Operations Performance investigates operational efficiency through appointment completion rates, cancellations, no shows, scheduling trends, and physician workload.
 - Financial Performance examines revenue drivers including treatment profitability, insurance payer mix, billing activity, payment status, and other financial indicators.
+- Patient Demographics looks into who the actual patients are, using age / gender distribution, the treatments they are receiving, and patient retention.
 
 Rather than focusing solely on writing SQL queries, the objective of this project is to demonstrate the complete analytical process, from database design and querying to data visualization, interpretation, and communication of business insights. The notebook is structured to resemble a professional analytics report, with each business question supported by SQL, visualizations, and written conclusions.
 
@@ -31,7 +32,7 @@ Rather than focusing solely on writing SQL queries, the objective of this projec
 - Branch Performance
     - What branch has the highest revenue per patient
     - Which branches are growing or declining over time
-- Operations
+- Operations Performance 
     - What months are the busiest
     - Which departments have the highest workload
 - Financial performance
@@ -71,6 +72,7 @@ Current progress includes :
 
 - Relational database design - complete
 - Executive performance analysis - complete
+- Branch performance - complete 
 - Operations performance analysis - complete
 - Financial performance analysis - currently in progress
 - Patient demographics - planned
