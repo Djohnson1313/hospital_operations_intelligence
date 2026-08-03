@@ -23,19 +23,58 @@ The analysis is organized into four key business areas :
 
 Rather than focusing solely on writing SQL queries, the objective of this project is to demonstrate the complete analytical process, from database design and querying to data visualization, interpretation, and communication of business insights. The notebook is structured to resemble a professional analytics report, with each business question supported by SQL, visualizations, and written conclusions.
 
-# Key Skills Used
+## Example Business Questions 
+
+- executive performance
+    - what is total revenue
+    - what is the average revenue per patient
+- branch performance
+    - what branch has the highest revenue per patient
+    - which branches are growing or declining over time
+- operations
+    - what months are the busiest
+    - which departments have the highest workload
+- financial performance
+    - what is the revenue per treatment 
+    - what is the average bill amount per patient
+- patient demographics
+    - what is the patient age distribution
+    - new vs. returning patients 
+
+# Tech Stack
+- SQL
+- python
+- pandas
+- matplotlib
+- jupyter notebook
+- gitbash
+- github
+
+# Key Skills Demonstrated 
 
 - relational database design
+- entity relationship design
+- database normalization
 - SQL joins
 - aggregations
 - subqueries
+- date functions
 - data visualizations
 - business analysis
 - technical documentation
 
 ## Project status
 
-This analysis is an ongoing project, with SQL queries and visualizations being the top priority to finish, followed by business intelligence visualizations coming soon.
+This project is actively being expanded.
+
+Current progress includes :
+
+- relational database design - complete
+- executive performance analysis - complete
+- operations performance analysis - complete
+- financial performance analysis - currently in progress
+- patient demographics - planned
+- tableau dashboard - planned
 
 ## Repository Structure
 
