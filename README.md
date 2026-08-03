@@ -33,7 +33,7 @@ This analysis is an ongoing project, with SQL queries and visualizations being t
 
 ## Repository Structure
 
-`
+``
 ├── assets
 ├── .gitignore
 ├── README.md
