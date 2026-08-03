@@ -33,7 +33,7 @@ Rather than focusing solely on writing SQL queries, the objective of this projec
 - business analysis
 - technical documentation
 
-# Project status
+## Project status
 
 This analysis is an ongoing project, with SQL queries and visualizations being the top priority to finish, followed by business intelligence visualizations coming soon.
 
