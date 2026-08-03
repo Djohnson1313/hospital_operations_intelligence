@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="assets/doc_stock.jpg"
+         width="1000"
+         height="400">
+</p>
+
 # Hospital Operations Analysis
 
 This Hospital Operations Analysis is an end to end healthcare analytics case study that transforms raw CSV files into a normalized relational database and uses SQL and Python to evaluate the operational and financial performance of a simulated multi branch hospital network. The project demonstrates database design, data modeling, SQL querying, data visualization, and business analysis by answering executive, branch, operational, and financial business questions. Findings are presented in a structured report that mirrors the workflow of a real world data analyst, from data preparation through actionable business insights.
