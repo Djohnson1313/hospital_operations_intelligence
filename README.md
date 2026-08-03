@@ -25,43 +25,43 @@ Rather than focusing solely on writing SQL queries, the objective of this projec
 
 ## Example Business Questions 
 
-- executive performance
-    - what is total revenue
-    - what is the average revenue per patient
-- branch performance
-    - what branch has the highest revenue per patient
-    - which branches are growing or declining over time
-- operations
-    - what months are the busiest
-    - which departments have the highest workload
-- financial performance
-    - what is the revenue per treatment 
-    - what is the average bill amount per patient
-- patient demographics
-    - what is the patient age distribution
-    - new vs. returning patients 
+- Executive Performance
+    - What is total revenue
+    - What is the average revenue per patient
+- Branch Performance
+    - What branch has the highest revenue per patient
+    - Which branches are growing or declining over time
+- Operations
+    - What months are the busiest
+    - Which departments have the highest workload
+- Financial performance
+    - What is the revenue per treatment 
+    - What is the average bill amount per patient
+- Patient demographics
+    - What is the patient age distribution
+    - New vs. returning patients 
 
 # Tech Stack
 - SQL
-- python
-- pandas
-- matplotlib
-- jupyter notebook
-- gitbash
-- github
+- Python
+- Pandas
+- Matplotlib
+- Jupyter notebook
+- Gitbash
+- Github
 
 # Key Skills Demonstrated 
 
-- relational database design
-- entity relationship design
-- database normalization
+- Relational database design
+- Entity relationship design
+- Database normalization
 - SQL joins
-- aggregations
-- subqueries
-- date functions
-- data visualizations
-- business analysis
-- technical documentation
+- Aggregations
+- Subqueries
+- Date functions
+- Data visualizations
+- Business analysis
+- Technical documentation
 
 ## Project status
 
@@ -69,12 +69,12 @@ This project is actively being expanded.
 
 Current progress includes :
 
-- relational database design - complete
-- executive performance analysis - complete
-- operations performance analysis - complete
-- financial performance analysis - currently in progress
-- patient demographics - planned
-- tableau dashboard - planned
+- Relational database design - complete
+- Executive performance analysis - complete
+- Operations performance analysis - complete
+- Financial performance analysis - currently in progress
+- Patient demographics - planned
+- Tableau dashboard - planned
 
 ## Repository Structure
 
