@@ -74,8 +74,8 @@ Current progress includes :
 - Executive performance analysis - complete
 - Branch performance - complete 
 - Operations performance analysis - complete
-- Financial performance analysis - currently in progress
-- Patient demographics - planned
+- Financial performance analysis - complete
+- Patient demographics - complete
 - Tableau dashboard - planned
 
 ## Repository Structure
